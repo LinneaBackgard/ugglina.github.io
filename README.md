@@ -18,8 +18,13 @@
 </ul>
 </ul>
 <ul>
-<h3><li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li></h3>
-  <h3><li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li></h3>
+  <h2> Muskeltöjningar</h2>
+  <h4><li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
+  <li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li>
+    <li>Erector Spinae <a href="#erectorspinae-funktioner"> - Gå till</a></li>
+    <li>Extensorer i underarmen <a href="extensorerunderarm-funktioner"> - Gå till</a></li>
+    <li>Flexorer i underarmen <a href="flexorerunderarm-funktioner"> - Gå till</a></li>
+    
 </ul>
 <h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
 <h3>Ursprung:</h3>

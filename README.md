@@ -23,7 +23,7 @@
 <li>Biceps Brachii <a href="#bicepsbrachii-funktioner">-G&aring; till</a></li>
 </ul>
 <h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
-<h4>Ursprung:</h4>
+<h3>Ursprung:</h3>
 <p>Pubis framkant</p>
 <h3>F&auml;sten</h3>
 <h4>Gracilis:</h4>
@@ -33,8 +33,7 @@
 </ul>
 <h4>Obturatorius Externa</h4>
 <ul>
-<li>
-<p>Baksidan av Femur p&aring; Trochanter major</p>
+<li>Baksidan av Femur p&aring; Trochanter major
 </li>
 </ul>
 <h4>&Ouml;vriga:</h4>

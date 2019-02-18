@@ -19,7 +19,7 @@
 </ul>
 <ul>
 <h3><li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li></h3>
-  <h3><li>Biceps Brachii <a href="#bicepsbrachii-funktioner">-G&aring; till</a></li></h3>
+  <h3><li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li></h3>
 </ul>
 <h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
 <h3>Ursprung:</h3>

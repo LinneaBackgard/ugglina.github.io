@@ -8,7 +8,7 @@
   <li>V&auml;l f&ouml;rtrogen med egent&ouml;jningar.</li>
   <li>Kunna ge olika slags egentöjningar beroende p&aring; patientens f&ouml;ruts&auml;ttningar.</li>
 <li>F&ouml;r varje angiven muskel eller muskelgrupp beh&auml;rska olika tekniker och kunna visa minst en terapeutisk t&ouml;jning samt egent&ouml;jning.</li>
-  <h3><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></h3>
+  <h3><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muskelgrupper - Key functions</a></h3>
 <h3>Adduktorer, l&aring;nga och korta</h3>
 <h3><a href="https://www.youtube.com/watch?v=eJabtFRcD54" target="_blank" rel="noopener">Video Adduktorer - Kingdom of Adductors</a></h3>
     <img src="https://www.videoreha.com/Images/Content/2015/08/6oF7uhdoSkeC0t8QfupG1A_400.jpg" alt="Adductor muscles group. " >

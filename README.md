@@ -14,7 +14,6 @@
 </ul>
 </ul>
 <ul>
-<ul>
 <li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
 </ul>
 </ul>

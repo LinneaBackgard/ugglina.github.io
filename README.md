@@ -30,9 +30,9 @@
 <li>Hamstrings <a href="hamstrings-funktioner"> - G&aring; till</a></li>
 <li>Iliopsoas <a href="iliopsoas-funktioner"> - G&aring; till</a></li>
 <li>Infraspinatus <a href="infraspinatus"> - G&aring; till</a></li>
-<li>Latissimus Dorsi <a href="latissimusdorsi-funktioner"> - G&aring; till</a></li>
+<li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
 <li>Levator Scapulae <a href="levatorscapulae-funktioner"> - G&aring; till</a></li>
-<li>Pectoralis major <a href="pectiralismajor-funktioner"> - G&aring; till</a></li>
+<li>Pectoralis major <a href="#pectoralismajor-funktioner"> - G&aring; till</a></li>
 <li>Pectoralis minor <a href="pectoralisminor-funktioner"> - G&aring; till</a></li>
 <li>Quadratus lumborum <a href="quadratuslumborum-funktioner"> - G&aring; till </a></li>
 <li>Rectus femoris <a href="rectusfemoris-funktioner"> - G&aring; till </a></li>

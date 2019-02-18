@@ -17,7 +17,6 @@
 <li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
 </ul>
 </ul>
-<ul>
   <h2> Muskeltöjningar</h2>
   <h4><li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
   <li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li>

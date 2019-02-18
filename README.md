@@ -32,5 +32,5 @@
 <ul>
 <li>Adduktion - ALLA</li>
 <li>Ut&aring;trotation i h&ouml;ftleden - Alla UTOM Gracilis som g&ouml;r in&aring;trotation, Magnus g&ouml;r b&aring;de och</li>
-<li>Flexion - Alla UTOM Magnus som g&ouml;r extension</li>
+<li>Flexion - ALLA UTOM Magnus som g&ouml;r extension</li>
 </ul>

@@ -7,7 +7,7 @@
   <li>Olika f&auml;rdigheter vid terapeuteiska muskelt&ouml;jningar.</li>
   <li>V&auml;l f&ouml;rtrogen med egent&ouml;jningar.</li>
   <li>Kunna ge olika slags egentöjningar beroende p&aring; patientens f&ouml;ruts&auml;ttningar.</li>
-<li>F&ouml;r varje angiven muskel eller muskelgrupp beh&auml;rska olika tekniker och kunna visa minst en terapeutisk t&ouml;jning samt egent&ouml;jning.</li>
+<li>F&ouml;r varje angiven muskel eller muskelgrupp beh&auml;rska olika tekniker och kunna visa minst en terapeutisk t&ouml;jning samt egent&ouml;jning.</li></ul>
   <h3><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muskelgrupper - Key functions</a></h3>
 <h2>Adduktorer, l&aring;nga och korta</h2>
 <h3><a href="https://www.youtube.com/watch?v=eJabtFRcD54" target="_blank" rel="noopener">Video Adduktorer - Kingdom of Adductors</a></h3>

@@ -17,12 +17,49 @@
 <li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
 </ul>
 </ul>
-  <h2> Muskeltöjningar</h2>
-  <h4><li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
-  <li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li>
-    <li>Erector Spinae <a href="#erectorspinae-funktioner"> - Gå till</a></li>
-    <li>Extensorer i underarmen <a href="extensorerunderarm-funktioner"> - Gå till</a></li>
-    <li>Flexorer i underarmen <a href="flexorerunderarm-funktioner"> - Gå till</a></li>
+  <h2>Muskelt&ouml;jningar</h2>
+<h3>Minst en terapeutisk t&ouml;jning samt en egent&ouml;jning:</h3>
+<ul>
+<li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
+<li>Biceps Brachii <a href="#bicepsbrachii-funktioner"> - G&aring; till</a></li>
+<li>Erector Spinae <a href="#erectorspinae-funktioner"> - G&aring; till</a></li>
+<li>Extensorer i underarmen <a href="extensorerunderarm-funktioner"> - G&aring; till</a></li>
+<li>Flexorer i underarmen <a href="flexorerunderarm-funktioner"> - G&aring; till</a></li>
+<li>Gluteus Maximus <a href="gluteusmaximus-funktioner"> -G&aring; till</a></li>
+<li>Gluteus Medius/minimus <a href="gluteusminimus-funktioner"> - G&aring; till</a></li>
+<li>Hamstrings <a href="hamstrings-funktioner"> - G&aring; till</a></li>
+<li>Iliopsoas <a href="iliopsoas-funktioner"> - G&aring; till</a></li>
+<li>Infraspinatus <a href="infraspinatus"> - G&aring; till</a></li>
+<li>Latissimus Dorsi <a href="latissimusdorsi-funktioner"> - G&aring; till</a></li>
+<li>Levator Scapulae <a href="levatorscapulae-funktioner"> - G&aring; till</a></li>
+<li>Pectoralis major <a href="pectiralismajor-funktioner"> - G&aring; till</a></li>
+<li>Pectoralis minor <a href="pectoralisminor-funktioner"> - G&aring; till</a></li>
+<li>Quadratus lumborum <a href="quadratuslumborum-funktioner"> - G&aring; till </a></li>
+<li>Rectus femoris <a href="rectusfemoris-funktioner"> - G&aring; till </a></li>
+<li>Rhomboideii <a href="rhomboideii-funktioner"> - G&aring; till </a></li>
+<li>Supraspinatus <a href="supraspinatus-funktioner"> - G&aring; till </a></li>
+<li>Subscapularis <a href="subscapularis"> - G&aring; till </a></li>
+<li>Teres major <a href="teresmajor-funktioner"> - G&aring; till </a></li>
+<li>Teres minor <a href="teresminor-funktioner"> - G&aring; till </a></li>
+<li>Tibialis Anterior <a href="tibialisanterior-funktioner"> - G&aring; till </a></li>
+<li>Trapezius <a href="trapezius-funktioner"> - G&aring; till </a></li>
+<li>Triceps Brachii <a href="tricepsbrachii-funktioner"> - G&aring; till </a></li>
+<li>Triceps Surae <a href="tricepssurae-funktioer"> - G&aring; till </a></li>
+<li>Ut&aring;trotatorer <a href="ut&aring;trotatorer-funktioner"> - G&aring; till</a></li>
+<li>Mm. Vastii <a href="mmvastii-funktioner"> - G&aring; till </a></li>
+</ul>
+<h3>Minst en egent&ouml;jning:</h3>
+<ul>
+<li>Deltoideus</li>
+<li>Fibularis longus et brevis</li>
+<li>Masseter</li>
+<li>Suboccipitale/Nackrosetten</li>
+<li>Obliquus Externus et Inernus Abdominis</li>
+<li>Rectus Abdominis</li>
+<li>Scalenii</li>
+<li>Sternocleidomastoideus</li>
+<li>Temporalis</li>
+<li>Tibialis Posterior</li>
     
 </ul>
 <h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>

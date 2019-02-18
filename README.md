@@ -38,7 +38,6 @@
 </ul>
 <h4>&Ouml;vriga:</h4>
 <ul>
-<ul>
 <li>Linea aspere</li>
 </ul>
 </ul>

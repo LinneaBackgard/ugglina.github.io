@@ -209,5 +209,6 @@
 </ul>
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlicEbkzKi1VSa--kE4gR7CMyR2ldnjnazDAKJGO1yWqF-gbKS" alt="Pectoralis muskel" /></p>
 <h2><a href="https://youtu.be/hfrUcSWD3Z8">Video Pectoralis Major</a></h2>
-    
+    <h3>Stretch mot v&auml;gg</h3>
+<h2><img src="http://bazyd.com/wp-content/uploads/2018/05/v2-b79e93df3153733e9946d0b088891d97_hd.jpg" alt="Pectoralis stretch mot v&auml;gg" /></h2>
 

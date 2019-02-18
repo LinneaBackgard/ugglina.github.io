@@ -4,7 +4,6 @@
 <ul>
   <li>F&ouml;rtrogen med muskelt&ouml;jningar som metod.</li> <li>F&ouml;rst&aring; uppkomsten av muskelf&ouml;rkortningar, biomekaniska samband i kroppsh&aring;llning.</li>
   <li>De bakomliggande f&ouml;rklaringarna kring de olika behandlingsteknikerna.</li>
-<h2>F&auml;rdigheter</h2>
   <li>Olika f&auml;rdigheter vid terapeuteiska muskelt&ouml;jningar.</li>
   <li>V&auml;l f&ouml;rtrogen med egent&ouml;jningar.</li>
   <li>Kunna ge olika slags egentöjningar beroende p&aring; patientens f&ouml;ruts&auml;ttningar.</li>

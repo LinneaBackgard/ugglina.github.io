@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Ugglina/ugglina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ugglina/ugglina.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Anatomi</h1>
+<h2>Kunskaper</h2>
+<p>Förtrogen med muskeltöjningar som metod. Förstå uppkomsten av muskelförkortningar, biomekaniska samband i kroppshållning, de bakomliggande förklaringarna kring de olika behandlingsteknikerna.
+<h2>Färdigheter</h2>
+<p>Olika färdigheter vid terapeuteiska muskeltöjningar. Väl förtrogen med egentöjningar. Att ge olika slags beroende på patientens förutsättningar.</p>
+<p>För varje angiven muskel eller muskelgrupp behärska olika tekniker och kunna visa minst en terapeutisk töjning samt egentöjning.</p>
+<main>
+<h3>Adduktorer, långa och korta</h3>
+<img src="https://learnmuscles.com/wp-content/uploads/2017/04/Adductor-Group-anterior-view-763x1024.jpg" alt="Adductor muscles group. ">
+  
+</main>

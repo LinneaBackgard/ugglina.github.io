@@ -1,4 +1,4 @@
-<h1>Anatomi</h1>
+<h1>Muskeltöjningar</h1>
 <h2>Kunskaper</h2>
 <ul>
 <ul>
@@ -17,7 +17,6 @@
 <li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
 </ul>
 </ul>
-  <h2>Muskelt&ouml;jningar</h2>
 <h3>Minst en terapeutisk t&ouml;jning samt en egent&ouml;jning:</h3>
 <ul>
 <li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>

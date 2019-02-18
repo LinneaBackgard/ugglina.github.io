@@ -13,11 +13,23 @@
 </ul>
 </ul>
 </ul>
-<h3><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></h3>
-<h3>Adduktorer, l&aring;nga och korta</h3>
+<ul>
+<ul>
+<li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
+</ul>
+</ul>
+<ul><h3>
+<li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
+<li>Biceps Brachii <a href="#bicepsbrachii-funktioner">-G&aring; till</a></li>
+  
+  </h3>
+</ul>
+<h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
 <h3><a href="https://www.youtube.com/watch?v=eJabtFRcD54" target="_blank" rel="noopener">Video Adduktorer - Kingdom of Adductors</a></h3>
 <p><img src="https://www.videoreha.com/Images/Content/2015/08/6oF7uhdoSkeC0t8QfupG1A_400.jpg" alt="Adductor muscles group. " /></p>
 <h3>The Kingdom of Adductors</h3>
+<ul>
+<ul>
 <ul>
 <ul>
 <li>Adductor Magnus: The king; plays a major role</li>
@@ -28,9 +40,16 @@
 <li>(+ Obturatorius Externa &amp; Adductor minimus)</li>
 </ul>
 </ul>
+</ul>
+</ul>
 <h4>Adduktorer - funktioner</h4>
+<ul>
+<ul>
 <ul>
 <li>Adduktion - ALLA</li>
 <li>Ut&aring;trotation i h&ouml;ftleden - Alla UTOM Gracilis som g&ouml;r in&aring;trotation, Magnus g&ouml;r b&aring;de och</li>
-<li>Flexion - ALLA UTOM Magnus som g&ouml;r extension</li>
+<li>Flexion - Alla UTOM Magnus som g&ouml;r extension</li>
 </ul>
+</ul>
+</ul>
+<h2 id="bicepsbrachii-funktioner">Biceps Brachii</h2>

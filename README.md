@@ -13,11 +13,57 @@
 </ul>
 </ul>
 </ul>
-<h3><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></h3>
-<h3>Adduktorer, l&aring;nga och korta</h3>
-<h3><a href="https://www.youtube.com/watch?v=eJabtFRcD54" target="_blank" rel="noopener">Video Adduktorer - Kingdom of Adductors</a></h3>
+<ul>
+<ul>
+<li><a href="https://parallelcoaching.co.uk/wp-content/uploads/2018/05/Muscle-Memory-Cheat-Sheet-.pdf" target="_blank" rel="noopener">Muscle cheat sheet</a></li>
+</ul>
+</ul>
+<ul>
+<li>Adduktorer, l&aring;nga och korta <a href="#adduktorer-funktioner"> - G&aring; till</a></li>
+<li>Biceps Brachii <a href="#bicepsbrachii-funktioner">-G&aring; till</a></li>
+</ul>
+<h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
+<h4>Ursprung:</h4>
+<p>Pubis framkant</p>
+<h3>F&auml;sten</h3>
+<h4>Gracilis:</h4>
+<ul>
+<li>Pes Anserinus
+</li>
+</ul>
+<h4>Obturatorius Externa</h4>
+<ul>
+<li>
+<p>Baksidan av Femur p&aring; Trochanter major</p>
+</li>
+</ul>
+<h4>&Ouml;vriga:</h4>
+<ul>
+<ul>
+<li>Linea aspere</li>
+</ul>
+</ul>
+<h3>Funktioner</h3>
+<ul>
+<ul>
+<ul>
+<ul>
+<ul>
+<li>Adduktion - ALLA</li>
+<li>Ut&aring;trotation i h&ouml;ftleden - Alla UTOM Gracilis som g&ouml;r in&aring;trotation, Magnus g&ouml;r b&aring;de och</li>
+<li>Flexion - Alla UTOM Magnus som g&ouml;r extension</li>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
 <p><img src="https://www.videoreha.com/Images/Content/2015/08/6oF7uhdoSkeC0t8QfupG1A_400.jpg" alt="Adductor muscles group. " /></p>
+<h3><a href="https://www.youtube.com/watch?v=eJabtFRcD54" target="_blank" rel="noopener">Video Adduktorer - Kingdom of Adductors</a></h3>
 <h3>The Kingdom of Adductors</h3>
+<ul>
+<ul>
+<ul>
+<ul>
 <ul>
 <ul>
 <li>Adductor Magnus: The king; plays a major role</li>
@@ -28,9 +74,8 @@
 <li>(+ Obturatorius Externa &amp; Adductor minimus)</li>
 </ul>
 </ul>
-<h4>Adduktorer - funktioner</h4>
-<ul>
-<li>Adduktion - ALLA</li>
-<li>Ut&aring;trotation i h&ouml;ftleden - Alla UTOM Gracilis som g&ouml;r in&aring;trotation, Magnus g&ouml;r b&aring;de och</li>
-<li>Flexion - ALLA UTOM Magnus som g&ouml;r extension</li>
 </ul>
+</ul>
+</ul>
+</ul>
+<h2 id="bicepsbrachii-funktioner">Biceps Brachii</h2>

@@ -231,4 +231,17 @@
 
 <img src="http://3.bp.blogspot.com/-0nICW529Lts/U5eWE1ayjTI/AAAAAAACe1Q/AmsZOHuNynE/s1600/pectoralis-minor-2.jpg" alt="Pectoralis minor muskel">
    <p></p> 
-
+   <p></p>
+ <p></p>
+<h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
+<h3>Ursprung:</h3>
+<ul><li>Processus Transversus C1-C4 (första, övre delen av halsryggen)</li></ul>
+  <h3>Fäste:</h3>
+  <li>Angulus Superior Scapulae</li>
+  <h3>Funktion:</h3>
+  <ul><li>Av Scapulae: Elevation, utåtrotation
+    <li>Av huvudet: Lateralflexion, dorsalflexion
+    <li>Vid fixerad skuldergördel: Ipsilateral rotation av huvudet</li></ul>
+<h2> <a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae"> 

@@ -242,6 +242,6 @@
   <ul><li>Av Scapulae: Elevation, utåtrotation
     <li>Av huvudet: Lateralflexion, dorsalflexion
     <li>Vid fixerad skuldergördel: Ipsilateral rotation av huvudet</li></ul>
-<h2> <a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</h2>
+<h2> <a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae"> 

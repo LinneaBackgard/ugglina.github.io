@@ -30,22 +30,22 @@
 <li>Iliopsoas <a href="iliopsoas-funktioner"> - G&aring; till</a></li>
 <li>Infraspinatus <a href="infraspinatus"> - G&aring; till</a></li>
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
-<li>Levator Scapulae <a href="levatorscapulae-funktioner"> - G&aring; till</a></li>
+<li>Levator Scapulae <a href="#levatorscapulae-funktioner"> - G&aring; till</a></li>
 <li>Pectoralis major <a href="#pectoralismajor-funktioner"> - G&aring; till</a></li>
-<li>Pectoralis minor <a href="pectoralisminor-funktioner"> - G&aring; till</a></li>
-<li>Quadratus lumborum <a href="quadratuslumborum-funktioner"> - G&aring; till </a></li>
-<li>Rectus femoris <a href="rectusfemoris-funktioner"> - G&aring; till </a></li>
-<li>Rhomboideii <a href="rhomboideii-funktioner"> - G&aring; till </a></li>
-<li>Supraspinatus <a href="supraspinatus-funktioner"> - G&aring; till </a></li>
-<li>Subscapularis <a href="subscapularis"> - G&aring; till </a></li>
-<li>Teres major <a href="teresmajor-funktioner"> - G&aring; till </a></li>
-<li>Teres minor <a href="teresminor-funktioner"> - G&aring; till </a></li>
-<li>Tibialis Anterior <a href="tibialisanterior-funktioner"> - G&aring; till </a></li>
-<li>Trapezius <a href="trapezius-funktioner"> - G&aring; till </a></li>
-<li>Triceps Brachii <a href="tricepsbrachii-funktioner"> - G&aring; till </a></li>
-<li>Triceps Surae <a href="tricepssurae-funktioer"> - G&aring; till </a></li>
-<li>Ut&aring;trotatorer <a href="ut&aring;trotatorer-funktioner"> - G&aring; till</a></li>
-<li>Mm. Vastii <a href="mmvastii-funktioner"> - G&aring; till </a></li>
+<li>Pectoralis minor <a href="#pectoralisminor-funktioner"> - G&aring; till</a></li>
+<li>Quadratus lumborum <a href="#quadratuslumborum-funktioner"> - G&aring; till </a></li>
+<li>Rectus femoris <a href="#rectusfemoris-funktioner"> - G&aring; till </a></li>
+<li>Rhomboideii <a href="#rhomboideii-funktioner"> - G&aring; till </a></li>
+<li>Supraspinatus <a href="#supraspinatus-funktioner"> - G&aring; till </a></li>
+<li>Subscapularis <a href="#subscapularis"> - G&aring; till </a></li>
+<li>Teres major <a href="#teresmajor-funktioner"> - G&aring; till </a></li>
+<li>Teres minor <a href="#teresminor-funktioner"> - G&aring; till </a></li>
+<li>Tibialis Anterior <a href="#tibialisanterior-funktioner"> - G&aring; till </a></li>
+<li>Trapezius <a href="#trapezius-funktioner"> - G&aring; till </a></li>
+<li>Triceps Brachii <a href="#tricepsbrachii-funktioner"> - G&aring; till </a></li>
+<li>Triceps Surae <a href="#tricepssurae-funktioer"> - G&aring; till </a></li>
+<li>Ut&aring;trotatorer <a href="#ut&aring;trotatorer-funktioner"> - G&aring; till</a></li>
+<li>Mm. Vastii <a href="#mmvastii-funktioner"> - G&aring; till </a></li>
 </ul>
 <h3>Minst en egent&ouml;jning:</h3>
 <ul>

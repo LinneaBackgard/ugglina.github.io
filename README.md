@@ -143,6 +143,24 @@
 </ul>
 </ul>
 <h2 id="bicepsbrachii-funktioner">Biceps Brachii</h2>
+<p></p>
+<p></p>
+<h1 id="erectorspinae-funktioner">Erector Spinae</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
 <h1 id="iliopsoas-funktioner">Iliopsoas</h1>
 <h3>Ursprung:</h3>
 <ul>
@@ -164,8 +182,8 @@
 <p><img src="http://www.healthymoves-pa.com/wp-content/uploads/2017/09/Hip-Flexor-stretch-lunge-position-286x300.jpg" alt="Stretching iliopsoas on floor" /></p>
 <h3>Stretch liggandes p&aring; rygg</h3>
 <p><img src="http://www.healthymoves-pa.com/wp-content/uploads/2017/09/Hip-Flexor-stretch_supine-300x239.jpg" alt="Stretching iliopsaos lying on the back" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <h1 id="latissimusdorsi-funktioner">Latissimus Dorsi</h1>
 <h3>Ursprung</h3>
 <ul>
@@ -193,7 +211,102 @@
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92OcyOb2Ht3C1ko9PsYT_Tbx3_OiIRAOW1e_YOK6YfTybvhzy" alt="Latissimus dorsi stretch mot v&auml;gg" /></p>
 <h3>Stretch p&aring; golv mot stol</h3>
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
-<p>&nbsp;</p>
+<h1 id="masseter-funktioner">Masseter</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
+<h1 id="nackrosett-funktioner">Nackrosett (Suboccipitalis)</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
+<h1 id="pterygoideus-funktioner">Pterygoideus Lateralis et Medialis</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
+<h1 id="scalenii-funktioner">Scalenii</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
+<h1 id="sternocleidomastoideus-funktioner">Sternocleidomastoideus</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
+<h1 id="temporalis-funktioner">Temporalis</h1>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+        <h3></h3>
+        <ul><li>
+        </li></ul>
+<h2> <a href=""></a></h2>
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<p></p>
+<p></p>
 <h1 id="pectoralismajor-funktioner">Pectoralis Major</h1>
 <h3>Ursprung:</h3>
 <ul>

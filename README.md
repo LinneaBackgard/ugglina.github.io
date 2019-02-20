@@ -78,14 +78,22 @@
 </ul>
 <h3>Mycket god kunskap</h3>
 <ul>
+<li>Erector Spinae <a href="#erectorspinae-funktioner"> - G&aring; till</a></li>
 <li>Iliopsoas <a href="#iliopsoas-funktioner"> - G&aring; till </a></li>
 <li>Latissimus Dorsi <a href="#latissimusdorsi-funktioner"> - G&aring; till</a></li>
+<li>Levator Scapulae <a href="#levatorscapulae-funktioner"> -G&aring; till </a></li>
+<li>Masseter <a href="#masseter-funktioner"> - G&aring; till</a></li>
+<li>Nackrosett (Suboccipitalis) <a href="#nackrosett-funktioner"> - G&aring; till </a></li>
 <li>Pectoralis Major <a href="#pectoralismajor-funktioner">- G&aring; till</a></li>
-  <li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - Gå till</a></li>
-  <li>Levator Scapulae<a href="#levatorscapulae-funktioner"> - Gå till</a></li>
-<li>Rhomboideii</li>
-<li>Trapezius</li>
+<li>Pectoralis Minor <a href="#pectoralisminor-funktioner"> - G&aring; till</a></li>
+<li>Pterygoideus Lateralis et Medialis <a href="#pterygoideus-funktioner"> - G&aring; till</a></li>
+<li>Rhomboideii <a href="#rhomboideii-funktioner"> - G&aring; till</a></li>
+<li>Scalenii <a href="#scalenii-funktioner"> G&aring; till </a></li>
+<li>Sternocleidomastoideus <a href="#sternocleidomastoideus-funktioner"> G&aring; till </a></li>
+<li>Temporalis <a href="#temporalis-funktioner"> G&aring; till </a></li>
+<li>Trapezius<a href="#trapezius-funktioner"> G&aring; till</a></li>
 </ul>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
   </ul>
 <h2 id="&quot;adduktorer-funktioner">Adduktorer</h2>
@@ -211,6 +219,22 @@
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92OcyOb2Ht3C1ko9PsYT_Tbx3_OiIRAOW1e_YOK6YfTybvhzy" alt="Latissimus dorsi stretch mot v&auml;gg" /></p>
 <h3>Stretch p&aring; golv mot stol</h3>
 <p><img src="https://i.pinimg.com/236x/20/72/df/2072df800a8c98c83c4cd3168dae942e--yoga-shoulder-shoulder-stretches.jpg?b=t" alt="Stretch p&aring; kn&auml; med armb&aring;gar p&aring; stol" /></p>
+<p></p>
+<p></p>
+<h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
+<h3>Ursprung:</h3>
+<ul><li>Processus Transversus C1-C4 (första, övre delen av halsryggen)</li></ul>
+  <h3>Fäste:</h3>
+  <li>Angulus Superior Scapulae</li>
+  <h3>Funktion:</h3>
+  <ul><li>Av Scapulae: Elevation, utåtrotation
+    <li>Av huvudet: Lateralflexion, dorsalflexion
+    <li>Vid fixerad skuldergördel: Ipsilateral rotation av huvudet</li></ul>
+<h2> <a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae"> 
+<p></p>
+<p></p>
 <h1 id="masseter-funktioner">Masseter</h1>
         <h3></h3>
         <ul><li>
@@ -346,15 +370,3 @@
    <p></p> 
    <p></p>
  <p></p>
-<h1 id="levatorscapulae-funktioner">Levator Scapulae</h1>
-<h3>Ursprung:</h3>
-<ul><li>Processus Transversus C1-C4 (första, övre delen av halsryggen)</li></ul>
-  <h3>Fäste:</h3>
-  <li>Angulus Superior Scapulae</li>
-  <h3>Funktion:</h3>
-  <ul><li>Av Scapulae: Elevation, utåtrotation
-    <li>Av huvudet: Lateralflexion, dorsalflexion
-    <li>Vid fixerad skuldergördel: Ipsilateral rotation av huvudet</li></ul>
-<h2> <a href="https://youtu.be/OwiF4Q5JJaE">Video Levator Scapulae</a></h2>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzQhuLY5QQWZNrtmFs_6XNuQK_HC2il-8IuoK5G5DhKqRvejdCQ" alt="Levator Scapulae muskel">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47a4DT3gs5rvud9JUgaDbDVml-qzmI-b8CuPOrH2o5u0jaPdL" alt="Stretch av Levator Scapulae"> 
